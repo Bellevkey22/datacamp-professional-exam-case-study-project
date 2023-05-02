@@ -46,4 +46,4 @@ Column Name: Details
 Publishing an advertisement in one of the well-known magazines or creating a newsletter that includes vacations and entertainment and at least two types of boats, used sport boat and used motor yacht. We emphasise that the engine type is Unleaded engine and Diesel, that the boats' materials are plastic, and that the boats are old and cheap.
 Because tastes fluctuate from one country to the next, it is recommended that each advertisement be adapted for each unique country.
 Because Switzerland and Germany have a high number of viewers, they are of importance to us, thus it is advisable to publish an advertising bulletin for them to clearly express their consumer preferences.
-![](DA0025237228908.pdf)
+
